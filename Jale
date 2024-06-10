@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="hr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Moja Prva Web Stranica</title>
+</head>
+<body>
+    <h1>Dobrodošli na moju web stranicu!</h1>
+    <p>Ovo je primjer jednostavne HTML stranice.</p>
+    <ul>
+        <li>Prva stavka</li>
+        <li>Druga stavka</li>
+        <li>Treća stavka</li>
+    </ul>
+</body>
+</html>
